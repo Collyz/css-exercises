@@ -52,11 +52,6 @@ a {
   flex-grow: 1; 
 }
 
-/* .empty {
-  display: flex;
-  flex-grow: 1;
-} */
-
 .header,.footer {
   display: flex;
   justify-content: space-between;
